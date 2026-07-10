@@ -1,0 +1,11 @@
+pystyle
+requests
+websocket-client
+cloudscraper
+rich
+fake-useragent
+numpy
+pandas
+scikit-learn
+joblib
+flask
